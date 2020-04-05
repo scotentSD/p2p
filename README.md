@@ -2,7 +2,7 @@
 
 This is built using Github pages, Jekyll and CloudCannon. By using some markdown language, you can create content which is deployed in the next 2 to 5 min to a website. No hosting needed and it's free.
 
-[See the result here](https://stephanie-k.github.io/p2p-business-network/)
+[See the result here](https://scotentSD.github.io/p2p/)
 
 ![draft logo for the peer to peer business network](images/P2PBN-rectangle.png)
 
