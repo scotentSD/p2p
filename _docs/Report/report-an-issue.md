@@ -18,7 +18,7 @@ However, if you believe that things have gone wrong, please send your complaints
 
 ![screenshot showing where the icon is in slack](../../images/report-issue1.png)
 
-3) Select the icon an you will see a menu with: **Report an issue**
+3) Select the icon and you will see a menu with: **Report an issue**
 
 ![screenshot showing where Report an issue is in the menu](../../images/report-issue2.png)
 
