@@ -12,7 +12,7 @@ However, if you believe that things have gone wrong, please send your complaints
 
 ## To report an issue
 
-1) Go to the channel report-an-issue
+1) Go the **#report-an-issue** channel
 
 2) Look for the lightning icon in the box where you would write your message:
 
