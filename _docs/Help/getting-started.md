@@ -13,12 +13,12 @@ You should have received an invite via email.
 
 **Go to the top left where your name appear**
 
-![screenshot showing where to start](../../images/create-profile1.png)
+![screenshot showing where to start](../../images/create-profile1.PNG)
 
 
 **Select View profile**
 
-![screenshot showing where 'View your profile' is in the menu](../../images/create-profile2.png)
+![screenshot showing where 'View your profile' is in the menu](../../images/create-profile2.PNG)
 
 
 **This will open a window in the right part of your screen**
