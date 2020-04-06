@@ -428,6 +428,11 @@ blockquote {
 	}
 }
 
+blockquote.red {
+	background-color: $warning-colour-light;
+	border-color: $warning-colour;
+}
+
 img {
 	max-width: 100%;
 	height: auto;
