@@ -2,7 +2,9 @@
 title: Welcome
 ---
 
-_(Still under construction)_
+<blockquote class="red">
+  <p>Still under construction</p>
+</blockquote>
 
 In response to this time of extraordinary challenge, this network offers a digital space, for business to meet, engage with each other, and work collaboratively in order to help themselves and other businesses in Scotland.
 
