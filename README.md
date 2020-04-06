@@ -4,7 +4,7 @@ This is built using Github pages, Jekyll and CloudCannon. By using some markdown
 
 [See the result here](https://scotentSD.github.io/p2p/)
 
-![draft logo for the peer to peer business network](images/P2PBN-rectangle.png)
+
 
 
 
