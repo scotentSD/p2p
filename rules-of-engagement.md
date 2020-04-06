@@ -44,3 +44,5 @@ We will try to respond to any complaint within five working days.
 If our response is not to your satisfaction, you may ask that it is referred to the Director of Customer Experience, whose decision is final.
 
 You must not post complaints on the discussion channels and only use the channel **#report-an-issue** for this purpose.
+
+> Learn more about [Reporting an issue](Report/report-an-issue.md)
