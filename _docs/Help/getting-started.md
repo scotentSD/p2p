@@ -35,6 +35,7 @@ You should have received an invite via email.
 - we won't display your full name or your email address
 - most of the fields are not mandatory
 - if you do not provide a picture, Slack will provide a random avatar
+- you could **add your company name at the end of your display name** so others can easily see who you work for (example: Jo_Wilson_MyOrganisationName) 
 
 > Some information like **What I do**, or **your organisation/company's name** are optional, but telling a bit more about yourself encourage people to engage with you as they will know where you are speaking from.
 
