@@ -1,23 +1,23 @@
 # ----
 # Site
 
-title: P2P Business Network
-url: "https://long-pig.cloudvent.net"
+title: Mobilising Scotland's Businesses, a Peer to Peer Network
+url: "https://scotentsd.github.io/p2p/"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /P2PBN.png
-description: Documentation for P2P Business Network
-author:
+description: Documentation for Mobilising Scotland's Businesses, a Peer to Peer Network
+author: 
   name: 
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: P2P Business Network
+  name: Mobilising Scotland's Businesses, a Peer to Peer Network
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - https://scotentsd.github.io/p2p/
 
 # -----
 # Build
