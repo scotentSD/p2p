@@ -8,8 +8,7 @@ order: 2
 You should have received an invite via email.
 
 1. sign up for your Slack account
-2. accept our rules of engagements: when you first join, you will see a message from the Slack bot in the left side bar; read the message and select the button **I agree**
-3. create your profile
+2.  create your profile
 
 **Go to the top left where your name appear**
 
