@@ -6,7 +6,7 @@ title: Joining the Peer to Peer Business Network
 
 
 <a href="mailto:stephanie.krus@scotent.co.uk?Subject=Peer%20to%20Peer%20Business%20Network%20-%20Send%20me%20an%20invite!"
-style="background-color: #1e7bb8; padding: 10px 20px; color: #fff; text-decoration: none">I agree to the Rules of Engagement</a>
+class="button">I agree to the Rules of Engagement</a>
 
 You will receive an invite via email.
 
