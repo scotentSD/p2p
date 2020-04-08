@@ -2,7 +2,7 @@
 title: Joining the Peer to Peer Business Network
 ---
 
-First, read our [Rules of Engagements](rules-of-engagement.md). If you agree to them, we will then send you an invite link to join the Peer to Peer Business Network.
+<p>First, read our <a href="https://scotentsd.github.io/p2p/rules-of-engagement/" target="_blank" rel="noopener">Rules of Engagement</a>. If you agree to them, we will then send you an invite link to join the Peer to Peer Business Network</p>
 
 
 <a href="mailto:stephanie.krus@scotent.co.uk?Subject=Peer%20to%20Peer%20Business%20Network%20-%20Send%20me%20an%20invite!"
