@@ -469,3 +469,16 @@ img {
 .cms-editor-active .editor-link {
 	display: block;
 }
+
+a.button { 
+	background-color: #1e7bb8; 
+	padding: 10px 20px; 
+	color: #ffffff; 
+	text-decoration: none;
+}
+a.button:hover {
+    color: #1e7bb8;
+    background-color: #ffffff;
+    padding: 8px 18px;
+    border: solid 2px #1e7bb8;
+}
