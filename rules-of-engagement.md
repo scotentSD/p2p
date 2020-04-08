@@ -37,7 +37,7 @@ We exclude our liability for all action we may take in response to breaches of t
 
 We are committed to providing an accessible and useful service for the Scottish Business community. 
 
-However, if you believe that things have gone wrong, please send your complaints or comments to the Facilitator team through the **#report-an-issue** channel.
+However, if you believe that things have gone wrong, or that another user has broken these rules of engagement, please send your complaints or comments to the Facilitator team through the **#report-an-issue** channel.
 
 We will try to respond to any complaint within five working days.
 
