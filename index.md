@@ -19,7 +19,6 @@ Staff from [**Scottish Enterprise**](https://www.scottish-enterprise.com/) will 
 You should have received an invitation to join
 
 1. sign up for your Slack account
-2. accept our rules of engagements
-3. create your profile
-4.  start engaging with other businesses
+2. create your profile
+3. start engaging with other businesses
 
