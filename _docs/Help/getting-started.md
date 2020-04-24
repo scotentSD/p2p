@@ -31,13 +31,12 @@ You should have received an invite via email.
 
 
 **Enter information about you**
-- we won't display your full name or your email address
+- we won’t display your full name or your email address, only your "display name", and any other field you have completed
 - most of the fields are not mandatory
-- if you do not provide a picture, Slack will provide a random avatar
-- you could **add your company name at the end of your display name** so others can easily see who you work for (example: Jo_Wilson_MyOrganisationName) 
-
-> Some information like **What I do**, or **your organisation/company's name** are optional, but telling a bit more about yourself encourage people to engage with you as they will know where you are speaking from.
-
+- if you do not provide a picture, Slack will provide a random avatar but it would be great if you could add one
+- some information like **What I do**, or **your organisation/company’s name** are optional, but if you tell us more about what you do there is more chance of making good quality connections and making sure people engage with you as they will know where you are speaking from
+- you can also add your company website and your LinkedIn profile
+- all Scottish Enterprise members have added **-SE** at the end of their display name so they are easily identifiable, you could do the same and **add your company name at the end of your display name**
 
 ## You are ready!
 Start engaging with other businesses
