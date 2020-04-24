@@ -31,7 +31,7 @@ You should have received an invite via email.
 
 
 **Enter information about you**
-- we won’t display your full name or your email address, only your "display name", and any other field you have completed
+- we won’t display your email address
 - most of the fields are not mandatory
 - if you do not provide a picture, Slack will provide a random avatar but it would be great if you could add one
 - some information like **What I do**, or **your organisation/company’s name** are optional, but if you tell us more about what you do there is more chance of making good quality connections and making sure people engage with you as they will know where you are speaking from
